@@ -1,0 +1,35 @@
+adjust the window size and dimensions betwin windows 
+orientation: landscape
+Font: ARIAL BOLD
+Fontsize1:  12
+Fontsize2:  12
+Fontsize3:  12
+Fontsize4:  12
+Fontcolor1: black
+Fontcolor2: blue
+Fontcolor3: white
+Fontcolor4: yellow
+backcolor1: gray
+backcolor1: white
+backcolor1: white
+backcolor1: gray
+
+
+¡E	Add image (gif/jpg) per each msg. 
+
+¡E	Setup what is (fixed text box)
+¡E	Setup what is (Msg. box)
+¡E	Setup what is (image box)
+¡E	Setup what is (clock box)
+
+fixed text box
+	
+Msg. box	
+image box
+	
+clock box
+
+¡E	Screansaver img folder
+¡E	Setup Screansaver on/off 
+¡E	Setup Screansaver start time 
+¡E	Setup Screansaver time between images 

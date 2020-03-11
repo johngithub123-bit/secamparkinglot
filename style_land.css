@@ -1,0 +1,24 @@
+.headerbar {
+	font-weight: bolder;
+	text-align: center;
+	border:1px solid black;
+	vertical-align: middle;
+}
+
+.messagepart {
+	font-weight: bolder;
+	text-align: center;
+	border:1px solid black;
+	vertical-align: middle;
+}
+
+img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.clockbox {
+	text-align: center;
+	font-weight: bolder;
+	vertical-align: middle;
+}

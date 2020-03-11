@@ -1,0 +1,30 @@
+p.headerbar {
+	writing-mode: vertical-rl;
+    transform: rotate(180deg);
+}
+
+p.messagepart {
+	font-weight: bolder;
+	text-align: center;    
+	writing-mode: vertical-rl;
+    transform: rotate(180deg);
+}
+img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    transform: rotate(270deg);
+}
+p.timestampbar {
+	text-align: center;
+	font-weight: bolder;
+	writing-mode: vertical-rl;
+    transform: rotate(180deg);
+}
+table {
+	border-collapse: collapse;
+}
+table, td {
+	border: 1px solid black;
+	vertical-align: middle;
+} 
